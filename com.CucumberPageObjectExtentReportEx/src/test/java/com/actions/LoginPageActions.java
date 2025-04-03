@@ -42,7 +42,7 @@ public class LoginPageActions {
     	loginPageLocators.login.click();
     }
     public void login() {
-    	File file=new File("C:\\Users\\Public\\seleniumBasics\\com.CucumberPageObjectExtentReportEx\\src\\test\\resources\\com\\testdata.properties");
+    	File file=new File("C:\\Users\\thous\\git\\CucumberPageObjectExtentReportEx\\com.CucumberPageObjectExtentReportEx\\src\\test\\resources\\com\\testdata.properties");
     
     	FileInputStream fileInput=null;
     	try {
